@@ -1,0 +1,1 @@
+# my-banking-app: The example of accessing remote EJB from other JVM
